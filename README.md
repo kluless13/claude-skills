@@ -14,6 +14,7 @@ Each skill contains:
 
 | Skill | Description |
 |-------|-------------|
+| [dan-koe](./skills/dan-koe) | Channel Dan Koe's philosophy and frameworks. Main orchestrator with 10 sub-skills for one-person business, content creation, focus, and more. |
 | [articulation](./skills/articulation) | Framework for articulating ideas intelligently in writing and speaking. Based on Dan Koe's methods. |
 
 ## Installation
